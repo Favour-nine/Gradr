@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@layer base {
+  html {
+    @apply overflow-y-scroll;
+  }
+}

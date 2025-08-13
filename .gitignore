@@ -1,0 +1,26 @@
+# Node/JS
+node_modules/
+dist/
+build/
+.cache/
+.next/
+.out/
+.vite/
+coverage/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
+# App-specific
+.env
+.env.*
+uploads/
+data/
